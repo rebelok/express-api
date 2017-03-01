@@ -1,0 +1,20 @@
+{
+  "name": "disruption-insights-express-api",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Andrew Vdovichenko",
+  "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=development nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.16.1",
+    "camelize": "^1.0.0",
+    "moment": "^2.17.1",
+    "mysql": "^2.13.0"
+  }
+}
