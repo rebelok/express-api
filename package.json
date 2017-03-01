@@ -1,5 +1,5 @@
 {
-  "name": "disruption-insights-express-api",
+  "name": "express-api",
   "version": "0.1.0",
   "main": "index.js",
   "author": "Andrew Vdovichenko",
